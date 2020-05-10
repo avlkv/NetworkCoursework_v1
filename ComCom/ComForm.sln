@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComForm", "ComForm\ComForm.csproj", "{88A50833-7796-4B78-9B63-D3804966FEA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A50833-7796-4B78-9B63-D3804966FEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A50833-7796-4B78-9B63-D3804966FEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A50833-7796-4B78-9B63-D3804966FEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A50833-7796-4B78-9B63-D3804966FEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF9D6CF-10A7-4E7B-956E-09E74E81F05F}
+	EndGlobalSection
+EndGlobal

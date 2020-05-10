@@ -1,0 +1,9 @@
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\bin\Debug\ComForm.exe.config
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\bin\Debug\ComForm.exe
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\bin\Debug\ComForm.pdb
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.csprojAssemblyReference.cache
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.Form1.resources
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.Properties.Resources.resources
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.csproj.GenerateResource.cache
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.exe
+C:\Users\volko\Downloads\NetworkCoursework\NetworkCoursework-master\ComCom\ComForm\obj\Debug\ComForm.pdb
